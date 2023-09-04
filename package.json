@@ -1,7 +1,7 @@
 {
   "name": "codelive",
   "version": "0.1.0",
-  "homepage": "https://battery9.github.io/CodeLive",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@codemirror/lang-html": "^6.4.5",
